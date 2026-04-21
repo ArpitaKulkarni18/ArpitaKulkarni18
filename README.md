@@ -48,16 +48,17 @@ B.Tech student in Artificial Intelligence and Data Science with a **9.50 CGPA**.
 ### AI Job Market Dashboard
 - Interactive Power BI dashboard analyzing 500+ job roles across 10 industries.
 
----
-
 ## Quick Highlights
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Academic_Excellence-9.50_CGPA-2DFF73?style=for-the-badge&logo=googlescholar&logoColor=black" />
-  <img src="https://img.shields.io/badge/Hackathon-Global_2nd_Prize-FFD700?style=for-the-badge&logo=googlemaps&logoColor=black" />
-  <img src="https://img.shields.io/badge/Honors-Cloud_Computing_(AWS)-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=Academic+Excellence&message=9.50+CGPA&color=00b09b&style=for-the-badge&logo=googlescholar" />
+  <img src="https://img.shields.io/static/v1?label=Hackathon&message=Global+2nd+Prize&color=f8b500&style=for-the-badge&logo=googlemaps" />
+  <img src="https://img.shields.io/static/v1?label=Honors&message=Cloud+Computing+(AWS)&color=0052D4&style=for-the-badge&logo=amazon-aws" />
 </p>
 
+
 ---
+
 
 ## Certifications
 - **Artificial Intelligence Fundamentals** | IBM SkillsBuild
