@@ -1,6 +1,5 @@
 # <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&size=35&pause=1000&color=2DFF73&width=500&lines=Hi,+I'm+Arpita+Kulkarni;B.Tech+AI+%26+Data+Science;Global+Hackathon+Winner;Full+Stack+Developer" alt="Typing SVG" />
 
-## Professional Summary
 B.Tech student in Artificial Intelligence and Data Science with a **9.50 CGPA**. Global 2nd Prize winner at the **Google Maps Platform Hackathon 2025**. Experienced in building AI-driven applications, SaaS dashboards, and cloud-integrated solutions.
 
 ---
