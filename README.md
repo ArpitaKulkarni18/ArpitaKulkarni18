@@ -47,19 +47,24 @@ B.Tech student in Artificial Intelligence and Data Science with a **9.50 CGPA**.
 
 ### AI Job Market Dashboard
 - Interactive Power BI dashboard analyzing 500+ job roles across 10 industries.
-- Visualized salary trends, automation risks, and AI adoption.
 
 ---
 
-## GitHub Performance
+## Quick Highlights
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arpitakulkarni18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitakulkarni18&layout=compact&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/Academic_Excellence-9.50_CGPA-2DFF73?style=for-the-badge&logo=googlescholar&logoColor=black" />
+  <img src="https://img.shields.io/badge/Hackathon-Global_2nd_Prize-FFD700?style=for-the-badge&logo=googlemaps&logoColor=black" />
+  <img src="https://img.shields.io/badge/Honors-Cloud_Computing_(AWS)-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
 ---
 
----
+## Certifications
+- **Artificial Intelligence Fundamentals** | IBM SkillsBuild
+- **Machine Learning and Deep Learning** | IBM SkillsBuild
+- **Power BI For Beginners** | Simplilearn
+- **Fundamentals of Databases** | Simplilearn
+
 ---
 
 ## Connect with Me
